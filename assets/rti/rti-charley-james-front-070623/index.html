@@ -30,13 +30,13 @@
         // A RTI layer has many channels. In this example the 4 layers store 
         // channels in 4 different ways: image, deepzoom, tarzoom and itarzoom 
         const layer0 = new OpenLIME.Layer({
-            label: 'coin-image',
+            label: 'card',
             layout: 'image',
             type: 'rti',
             url: 'info.json',
             normals: false
         });
-        lime.canvas.addLayer('coin0', layer0);
+        lime.canvas.addLayer('card', layer0);
 
         // Fetch a skin (visual elements for the web page)
         OpenLIME.Skin.setUrl('../../../skin/skin.svg');

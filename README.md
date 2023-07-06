@@ -1,7 +1,20 @@
-# Dodec Labs 
+# Dodec Labs Card Demo
 
-## Baseball Cards
 
+## Geting started
+You can pan and zoom around the image with your mouse or trackpad. 
+
+Click the **lightbulb** 💡 on the bottom right corner to turn on lighting mode. 
+
+**Lighting Mode** allows you to inspect the chromatic properties of the card. Try dragging the light source around and see what you can find on the card. You can zoom in and out while the lightbulb is click. If you want to go back to panning around the image click the lightbulb icon again.
+
+Select the layer stack in the bottom right corner. On the left a menu appears showing you the various visualization options. Selecting **diffuse mode** allows you to inspect the various *bumps, pits, and textures*. 
+
+Lastly try out **specular mode**. You can use this to inspect the *glossiness and finish of the card*. 
+
+[ Viewing Modes: What are all these modes?](MODES.md)
+
+## Click any card image to dive into!
 ### Virgil Davis
 #### Front
 [![Virgil Davis Front](assets/rti/rti-virgil-front-070623/plane_0.jpg)](assets/rti/rti-virgil-front-070623/)
