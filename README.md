@@ -14,6 +14,11 @@ Lastly try out **specular mode**. You can use this to inspect the *glossiness an
 
 [ Viewing Modes: What are all these modes?](MODES.md)
 
+### Viewing on iPhone?
+There is a bug in the viewer that requires you to go to your home screen then reopen the web browser to make the controls appear when you first open the page.
+
+![](imgs/iphone-dodec-bug-small.gif)
+
 ## Click any card image to dive into!
 ### Virgil Davis
 #### Front
